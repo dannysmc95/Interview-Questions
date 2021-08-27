@@ -124,4 +124,4 @@ You want to hear that they understand that this references the scope the functio
 * Arrow functions are not bound to a particular object.
 
 **Notes**  
-Here we want the candidate to understand that they are not bound to a particular object, and that they are lexically scoped, therefore calling `this` will go to the next function scope.
+Here we want the candidate to understand that they are not bound to a particular object, and that they are lexically scoped, therefore calling `this` will go to the nearest parent function scope.
